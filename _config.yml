@@ -5,10 +5,10 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            AndroidHub
+title:            原文网
 tagline:          ''
 description:      ' Keep Focus '
-url:              www.androidhub.cc
+url:              www.yuanwen.wang
 
 paginate:      10
 

@@ -4,12 +4,11 @@ permalink: /about/
 ---
 
 
-### 关于 AndroidHub
+### 关于 原文网
 
-Android 应用开发工作室，致力于开发精品应用。
+高质量信息分享平台
 
 
 ### 联系我们
 
 * 邮  箱： bruceliu.dev@gmail.com
-* 微信号： iAboutCoder
